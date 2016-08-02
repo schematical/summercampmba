@@ -37,13 +37,20 @@ Radius/Circles
 * The expirence - The skill aqusition is an added bonus
 * Sugar Water(I will get into that later)
 
+####What are we selling - The Expirence:
+This will be a reoccurning theme
+
+- The Children - Obviously
+- The Parents - (Lines and how we are precived)
+- The Visiting Coaches/Celeberties
+- The Staff 
 
 
 #####Transition to next chapter: 
 In order to fulfill these needs we need a couple of things
 * Staff
-* A place to do it
-* Customers
+* Facilities
+* Customers -> Marketing
 
 
 
@@ -53,14 +60,18 @@ Compensation Issues: Pays in education
 
 Training/Turnover - Mary Kay
 
-Hiarchy - Directors
+Hiarchy - Directors/Master Staff
 
-Departments/Cross Functional - Dar
+Departments/Cross Functional - 
 
 JC Program - They become staff
 
+Celeberties and their roll - Marketing - Not advertising which weeks
+
 
 ###Creative Resource Aquisition:
+The Original Property
+
 Penn state throwaway
 - Original astroturf
 - Kitchen equipment 
@@ -90,6 +101,8 @@ Instead they should be trying to fill the off weeks
 
 Heating
 
+Transition to next chapter-> Expirements to get us past these limitations
+
 ###Expiremental Mindset:
 Tinkerer
 
@@ -107,6 +120,11 @@ No dip in sales of pizza on pizza night?
 ####Build A Bow:
 
 
+####The Brand:
+
+- Took years to build
+- Clothing Line
+- TV Show
 
 
 
@@ -143,9 +161,11 @@ No dip in sales of pizza on pizza night?
 
 ###The Future:
 The Resort Model
+- Partnership with Resort Holding Company
 
 
 No more gymnastics
+- Why gymnastics is not a business I would invest in
 
 
 
