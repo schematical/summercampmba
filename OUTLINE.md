@@ -6,6 +6,8 @@ What is this book?
 
 Who am I?
 
+Why am I writing this book?
+
 My history
 
 Why do I not use the camps name?
