@@ -62,13 +62,61 @@ Luckily the _"real job"_ phase didn't last long for me. I proceeded to start and
 
 The summer of 2013 one of the directors at the original, non-wisconsin, camp location convinced me and one of my high level atheletes to come out for two weeks at the begining of summer. We did our two weeks and I imediatly fell in love with camp all over again. The two weeks flew by and we headed home. I had been working a tech contract for a startup in Milwaukee for the past 9 months and was about to show up for work the Monday after I got back when I got a phone call explaining that the startup had fallen on hard financial times(go figure) and had to lay off all of the contractors. 
 
-So there I was with no job, no severance, no 2 weeks notice or anything. I didn't panic. I had been in far worse financial situations before. Instead having recently re-fallen in love with the camp life calmly called up the head gym director(who I will talk more about later) and asked if they needed staff for the rest of the summer. Luckily they said they did and I jumped on the bus camp charters from chicago to camp each
+So there I was with no job, no severance, no 2 weeks notice or anything. I didn't panic. I had been in far worse financial situations before. Instead having recently re-fallen in love with the camp life calmly called up the head gym director(who I will talk more about later) and asked if they needed staff for the rest of the summer. Luckily they said they would take me so I jumped on the bus camp charters to and from chicago to camp each week. Between then and the time that I am writing this book I have called camp my summer home and hope to continue to do so for the foreseeable future.
+
+
+When I am not at camp I continue to run my businesses; the most successful to date being my tech consulting business but I am also expanding into real estate investments and publishing a few books(one which you are reading now).
+
+###Why am I writing this book?
+Having spent a lot of my 'real world' carreer working with early stage tech web startups I started to hear the same advice over and over again; A lot of Mark Zuckerburg wannabees out there repeating whatever the advice of the month is. For example when Eric Rise's book The Lean Startup came out all of the suddon when lazy tech startup founders got board or mildly inconvinenced by an obstical to overcome they would 'piviot', then pivot again and again until they had wasted all of their founders money. Don't get me wrong, it was a great book, but my point is that the tech startup world is like a cult. There are a few hardcore business leaders out there doing their own thing but then the vast majority of flash in the pan guys trying to emulate whatever Groupon-esc company is hot that day. The latter blindly repeating whatever advise they read in the latest TechCrunch interview.
+
+It pains me to admin it but in my early 20s I was one of those guys. Since then I have stopped drinking the cool-aid(as much). I decided to take the low and slow approch to my business and life. Instead of building businesses that balloon up to one million users with absolutly no revinue model then fizzle out as they try to monitize I have decided to focus on small businesses that generate revinue from day 1. Call me old fashion but I figure my businesses should make money. 
+
+Since most of the big unicorn tech startups out there didn't worry about revinue until well their series A I decided to widen my search outside of the tech industury. I have studied the business models of:
+
+* Childrens Summer Camps(Obviously)
+* Restraunts
+* Hotels
+* Dry cleaners
+* Financial consultants
+* Comidities exchange markets
+* Dance coriogripfers
+* Bloggers
+* Vloggers(Video Bloggers)
+* Book publishers
+* Film industury producers
+* Professional atheletes
+* Crossfit gyms
+* Tough Mudder
+* Cheer gyms
+* Amazon drop ship businesses
+* Noveltly pet poop bags
+
+And many more. There is a suprising amount of applicable information that you can learn and apply to a tech business from studying these more traditional(and some less traditional like the dog poop bags) businesses. 
+
+Most tech business models have only been around for a decaid or less. Many of these other models have been around for 50-100 years; some even longer. They have been time tested. Though many resteraunts are contantly trying to find ways to innovate and change the industury the fundementals of echanging money for a cooked meal have been around for thousands of years. 
+
+I have had the priviladge of looking behind the scenes at one of these more traditional businesses, Camp, and observing first hand this beautiful machine in action. I have studied its various unique revinue streams. 
+
+* How it takes raw resources and converts them into revinue at an increadibly effective rate. 
+* How it sells a particular clothing item at about a 25 times markup from the wholesale cost of the product. 
+* How they actually have campers paying to come and produce comercials for camp. 
+* How camp manages to run with an astounding 25-50% staff turn over every week. 
+* How they manage to cut costs and scale down to just a handful of people in the off-season. 
+These are just a few of lessons that I have been so fortunate to learn from my years of working at this increadible place.
+
+Now it is time to put it all down into writing.
+
+The author Tim Ferriss gave me the idea for this book with his post called [How to Create Your Own Real-World MBA](http://fourhourworkweek.com/2010/06/28/mba/). The post sums up an expirement he did: Instead of dropping the massive cost of going to school to get his MBA, which would have gotten him mainly theoretical book knowladge, he took a sum of money equal to the cost of getting his MBA and started investing it in real projects. He wrote off the money he alocated as if it was already lost, same as if he had spent it on the traditioanl MBA. This way he would not be afraid to risk it as, in his mind, it was already spent. After two years of investing in real world projects he learned a lot of harsh non-theoretical lessons and had accumulated real expirence that he could apply to his investing carreer moving forward.
+
+Tim may have gotten his "Real-World MBA" but I am proud to say I have recived my "Summer Camp MBA". No I didn't drop any money on it (lets just say I was on scollarship) but I put in my time working in and on this amazing business machine I call Camp.
+
 
 ##What is this book?
 
 
 
-###Why am I writing this book?
+
 
 My history
 
@@ -98,5 +146,13 @@ And dozzens more I am sure.
 
 Some of the most famous gold medalist olympians and professional x-games atheletes to have ever walked the face of this earth have traveld great distances to attend camp; many even to train here.
 ********/
+
+
+
+####Back of the book quote:
+
+* (Build A Bow) 25 times markup on a clothing item and gets the customer to assemble it
+* (Digital Media)How they get their customer to pay to come produce comercials for camp
+* (Staff Turnover)How they survive with 25-50% staff turn over a week
 
 
