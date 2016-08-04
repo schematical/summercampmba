@@ -107,20 +107,23 @@ These are just a few of lessons that I have been so fortunate to learn from my y
 
 Now it is time to put it all down into writing.
 
-The author Tim Ferriss gave me the idea for this book with his post called [How to Create Your Own Real-World MBA](http://fourhourworkweek.com/2010/06/28/mba/). The post sums up an expirement he did: Instead of dropping the massive cost of going to school to get his MBA, which would have gotten him mainly theoretical book knowladge, he took a sum of money equal to the cost of getting his MBA and started investing it in real projects. He wrote off the money he alocated as if it was already lost, same as if he had spent it on the traditioanl MBA. This way he would not be afraid to risk it as, in his mind, it was already spent. After two years of investing in real world projects he learned a lot of harsh non-theoretical lessons and had accumulated real expirence that he could apply to his investing carreer moving forward.
+One of my favorite authors, Tim Ferriss, gave me the idea for this book with his post called [How to Create Your Own Real-World MBA](http://fourhourworkweek.com/2010/06/28/mba/). The post sums up an expirement he did: Instead of dropping the massive cost of going to school to get his MBA, which would have gotten him mainly theoretical book knowladge, he took a sum of money equal to the cost of getting his MBA and started investing it in real projects. He wrote off the money he alocated as if it was already lost, same as if he had spent it on the traditioanl MBA. This way he would not be afraid to risk it as, in his mind, it was already spent. After two years of investing in real world projects he learned a lot of harsh non-theoretical lessons and had accumulated real expirence that he could apply to his investing carreer moving forward.
 
-Tim may have gotten his "Real-World MBA" but I am proud to say I have recived my "Summer Camp MBA". No I didn't drop any money on it (lets just say I was on scollarship) but I put in my time working in and on this amazing business machine I call Camp.
-
-
-##What is this book?
+Tim may have gotten his "Real-World MBA" but I am proud to say I have recived my "Summer Camp MBA". No I didn't drop any money on it (lets just say I was on scollarship) but I put in my time working in and on this amazing business machine I call Camp. 
 
 
+##//What is this book?
+This book is a summary of the lessons I have learned by observing the inner workings of camp. The percision engineered interactions between campers and staff as well as the interactions that happen more organically. Lessons learned from many short and some long conversations with the original founders of camp and their top level directors. Lessions that the founders
+
+Lessions many of which I sincerly belive can apply to your business no matter what industury you business is in.
 
 
 
-My history
 
-Why do I not use the camps name?
+
+
+
+##Why do I not use the camps name?
 
 - I did not ask permission to write this book -  Instead I will ask forgivness if need be
 
