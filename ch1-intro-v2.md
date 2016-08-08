@@ -103,9 +103,5 @@ You probably realized that Camp is not just called "Camp" it has a real name and
 
 
 
-###Put in later chapters:
-
-Does this mean that camp and those who run it are only in it for the money? No! Nothing could be further from the truth. Those that run this place run it with their heart at great personal costs. But they do respect the fact that it takes a significant amount of capital to maintain this amazing place. They face the hard realities of business so that the campers can live out their greatest fantasies during their stay here. These less tangible lessons are equally, if not more important, as the lessons on how to turn a profit and the I will get them more in the chapters found in the later half of this book. 
-
 
 
