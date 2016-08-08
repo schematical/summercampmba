@@ -7,6 +7,14 @@ Business lessons learned while working behind the scenes at one of the worlds mo
 * High Profile
 * 
 
+##Notes:
+[Stop Stealing Dreams by Seth Godin - TED Talk](https://www.youtube.com/watch?v=sXpbONjV1Jc)-[PDF](http://sethgodin.typepad.com/files/stop-stealing-dreams6print.pdf)
+
+Incorporate Montosori
+
+
+
+
 ##Intro:
 As I begin to write this opening paragraph I am staring out over a mountain range that surrounds {X} square miles of camp where, for this week, around one thousand children and staff are calling home. {25} cabins each containing up to {40} campers are slowly waking up, brushing their teeth(I hope) and strolling down to breakfast. They will eventually make their way to the morning session of their chosen programs. 
 
@@ -18,36 +26,31 @@ In front of me I can see half a dozen skate parks and bike tracks that will be r
 
 Social media will be flooded with {thousands} of photos of smiling campers chasing their dreams of being a high level gymnast or landing that big skate trick off of the mini-mega ramp(For those of you not famillar a giant ramp similar to the ones in the x-games).
 
-And this is all just today. Imagine an entire week of this? Imagine an entire 12 weeks of this. Imagine the other various locations of this camp with several thousand more campers. 
+And this is all just today. Imagine an entire week of this? Imagine an entire 12 weeks of this. Imagine the other various locations of this camp with several thousand more campers each week. 
 
-Now imagine what it takes to run this place. Just at this location alone feeding 3 square meals a day to about a thousand staff and campers with big appatities because they just spent the previous day working out or instructing. 
+Now imagine what it takes to run this place at this location alone:
 
-Imagine the monumential task of housing all those people. Who stays with whome.
-Imagine the amount of maintaince that goes into keeping this place running, clogged toilets, power outages, etc.
-Imagine keeping one thousand people healthy. Both from injuries such a bumps and bruses incurred while training as well as from the sore tummies and asthma attacks that happen outside of the gym.
-Imagine staffing all of this, and dealing with constant turn over; training new staff each week to opperate this place.
+* Feeding 3 square meals a day to just under a thousand staff and campers with big appatities because they just spent the previous day working out or instructing. 
+* Housing all those people each week.
+* Dealing with all of the waste roughly one thousand individuals create, both garbage as well as keeping the toilets flushing smoothly.
+* Keeping one thousand people healthy. Both from injuries such a bumps and bruses incurred while training as well as from the sore tummies and asthma attacks.
+* Staffing all of this, and dealing with constant turn over; training new staff each week to opperate this place.
+
+Imagine what it takes to do all of this and more. Forty some years ago the founders of this place bought a small farm in the middle of no where moutain country and started off with just a dream. Since then they have managed to grow this place into one of the worlds most popular summer camps and sprout up international franchise locations all over the world.
+
+##What is The Summer Camp MBA:
+It is mind boggeling how much effort and persistance the founders of this camp must have put in to create this masterpeace. Some how over the past forty years they figured out how to do some pretty amazing things that we can learn from. Some of the lessons I personally have learned and will teach to you in this book are as follow:
+
+* How camp sells a particular clothing item at  {25} times markup from the wholesale cost of the product. 
+* How they actually have campers paying to come and produce comercials for camp. 
+* How camp manages to run with an astounding {25-50%} staff turn over every week. 
+* How they manage to cut costs and scale down to just a handful of people in the off-season.
+* How to manage an everchanging staff of inexpirenced and expirenced, many of which have huge egos
+
+These are just a few of lessons that I have been so fortunate to learn from my years of working at this increadible place that you will read about in this book.
 
 
 
-
-
-
-This amazing, beautiful, complex, machine I call camp is a living breathing masterpiece. No, I don't mean to say it is perfect by any means, but it is truely amazing what a hand full of people lead by two brilliant visionaries have built in the middle of nowhere; In a vally surrounded by farms, {10} miles from the nearest traffic light.
-
-This place is a great many things to a great many people. To some campers it is skate board heavin. Parkour atheletes may see it as the holy land of parkour. A lot of the gymnasts I coach see it as their favorite week of the year. To some of the yonger staff its a great way to train and earn a hundred or so dollars a week(A hell of a lot better then flipping burgers). Other more serious carreer coaches see it as a way to learn from other more established coaches. To pretty much everyone, staff and camper, it is an amazing life changing expirence.
-
-To me it is all that and more. Though I love all of the simple enjoyments here:
-
-* Playing "Mat Tag" for warmup.
-* Enjoying a free ice cream while watching some kids butcher a song during Kariokie
-* Enjoying the company of my many friends that I have made from many various backgrounds
-* Hob nobbing with any one of the many olympic gold metalists that that attend camp
-* The excitment in the eyes of an athelete after I help them achive a big skill
-* Sneeking in a hand balencing workout inbetween coaching sessions
-
-But as serial entripinure I can appriciate this amazing place for the side that most of the campers are completely unaware of. Camp is also a business. The reality is in order to create all of those expirences, serve all of those meals, maintain all of those skate ramps and trampolines we need staff, materials, and facilities that all cost money. To make the money to do all of these things camp has to be a business. It must have employees, do marketing, provide a service, and in the end turn a profit at the end of the summer.
-
-Does this mean that camp and those who run it are only in it for the money? No! Nothing could be further from the truth. Those that run this place run it with their heart at great personal costs. But they do respect the fact that it takes a significant amount of capital to maintain this amazing place. They face the hard realities of business so that the campers can live out their greatest fantcies during their stay here. These less tangible lessons are equally, if not more important, as the lessions on how to turn a profit and the I will get them more in the chapters found in the later half of this book. 
 
 
 
@@ -98,22 +101,15 @@ Most tech business models have only been around for a decaid or less. Many of th
 
 I have had the priviladge of looking behind the scenes at one of these more traditional businesses, Camp, and observing first hand this beautiful machine in action. I have studied its various unique revinue streams. 
 
-* How it takes raw resources and converts them into revinue at an increadibly effective rate. 
-* How it sells a particular clothing item at about a 25 times markup from the wholesale cost of the product. 
-* How they actually have campers paying to come and produce comercials for camp. 
-* How camp manages to run with an astounding 25-50% staff turn over every week. 
-* How they manage to cut costs and scale down to just a handful of people in the off-season. 
-These are just a few of lessons that I have been so fortunate to learn from my years of working at this increadible place.
-
 Now it is time to put it all down into writing.
 
 One of my favorite authors, Tim Ferriss, gave me the idea for this book with his post called [How to Create Your Own Real-World MBA](http://fourhourworkweek.com/2010/06/28/mba/). The post sums up an expirement he did: Instead of dropping the massive cost of going to school to get his MBA, which would have gotten him mainly theoretical book knowladge, he took a sum of money equal to the cost of getting his MBA and started investing it in real projects. He wrote off the money he alocated as if it was already lost, same as if he had spent it on the traditioanl MBA. This way he would not be afraid to risk it as, in his mind, it was already spent. After two years of investing in real world projects he learned a lot of harsh non-theoretical lessons and had accumulated real expirence that he could apply to his investing carreer moving forward.
 
-Tim may have gotten his "Real-World MBA" but I am proud to say I have recived my "Summer Camp MBA". No I didn't drop any money on it (lets just say I was on scollarship) but I put in my time working in and on this amazing business machine I call Camp. 
+Tim may have gotten his "Real-World MBA" but I am proud to say I have recived my "Summer Camp MBA". No I didn't drop any money on it (lets just say I was on scollarship) but I put in my time working in and on this amazing business for now I will simply call "Camp". 
 
 
 ##//What is this book?
-This book is a summary of the lessons I have learned by observing the inner workings of camp. The percision engineered interactions between campers and staff as well as the interactions that happen more organically. Lessons learned from many short and some long conversations with the original founders of camp and their top level directors. Lessions that the founders
+This book is a summary of the lessons I have learned by observing the inner workings of camp. The percision engineered interactions between campers and staff as well as the interactions that happen more organically. Lessons learned from many short and some long conversations with the original founders of camp and their top level directors. Lessions that the founders.
 
 Lessions many of which I sincerly belive can apply to your business no matter what industury you business is in.
 
@@ -149,6 +145,30 @@ And dozzens more I am sure.
 
 Some of the most famous gold medalist olympians and professional x-games atheletes to have ever walked the face of this earth have traveld great distances to attend camp; many even to train here.
 ********/
+
+
+
+
+
+####Other Random:
+
+
+This amazing, beautiful, complex, machine I call camp is a living breathing masterpiece. No, I don't mean to say it is perfect by any means, but it is truely amazing what a hand full of people lead by two brilliant visionaries have built in the middle of nowhere; In a vally surrounded by farms, {10} miles from the nearest traffic light.
+
+This place is a great many things to a great many people. To some campers it is skate board heavin. Parkour atheletes may see it as the holy land of parkour. A lot of the gymnasts I coach see it as their favorite week of the year. To some of the yonger staff its a great way to train and earn a hundred or so dollars a week(A hell of a lot better then flipping burgers). Other more serious carreer coaches see it as a way to learn from other more established coaches. To pretty much everyone, staff and camper, it is an amazing life changing expirence.
+
+To me it is all that and more. Though I love all of the simple enjoyments here:
+
+* Playing "Mat Tag" for warmup.
+* Enjoying a free ice cream while watching some kids butcher a song during Kariokie
+* Enjoying the company of my many friends that I have made from many various backgrounds
+* Hob nobbing with any one of the many olympic gold metalists that that attend camp
+* The excitment in the eyes of an athelete after I help them achive a big skill
+* Sneeking in a hand balencing workout inbetween coaching sessions
+
+But as serial entripinure I can appriciate this amazing place for the side that most of the campers are completely unaware of. Camp is also a business. The reality is in order to create all of those expirences, serve all of those meals, maintain all of those skate ramps and trampolines we need staff, materials, and facilities that all cost money. To make the money to do all of these things camp has to be a business. It must have employees, do marketing, provide a service, and in the end turn a profit at the end of the summer.
+
+Does this mean that camp and those who run it are only in it for the money? No! Nothing could be further from the truth. Those that run this place run it with their heart at great personal costs. But they do respect the fact that it takes a significant amount of capital to maintain this amazing place. They face the hard realities of business so that the campers can live out their greatest fantcies during their stay here. These less tangible lessons are equally, if not more important, as the lessions on how to turn a profit and the I will get them more in the chapters found in the later half of this book. 
 
 
 
