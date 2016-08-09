@@ -1,7 +1,7 @@
 ##Outline:
 
 
-###Intro:
+###[Intro](./ch1-intro-v2.md):
 What is this book?
 
 Who am I?
@@ -14,8 +14,10 @@ Why do I not use the camps name?
 
 - I did not ask permission to write this book -  Instead I will ask forgivness if need be
 
-
-###History:
+-----------------------------------------
+100 Level Lessions
+-----------------------------------------
+###[History - 101](./history-101.md):
 
 Ups and downs - Bankrupsy
 
@@ -34,7 +36,7 @@ Radius/Circles
 
 ####History - Where are we now?
 
-
+---------------------------------------
 ###What are we selling:
 * The expirence - The skill aqusition is an added bonus
 * Sugar Water(I will get into that later)
@@ -54,9 +56,9 @@ In order to fulfill these needs we need a couple of things
 * Facilities
 * Customers -> Marketing
 
+-------------------------------------
 
-
-###Staff:
+###Hiring/Training Staff 101:
 
 Compensation Issues: Pays in education
 
@@ -70,8 +72,8 @@ JC Program - They become staff
 
 Celeberties and their roll - Marketing - Not advertising which weeks
 
-
-###Creative Resource Aquisition:
+----------------------------------------------------------
+###Resource Aquisition 101:
 The Original Property
 
 Penn state throwaway
@@ -80,30 +82,76 @@ Penn state throwaway
 
 One crappy golfcart or stationwagon looks bad. An Army of them spray painted up looks cool.
 
+Embracing grafitti
 
-###Marketing:
+####Lessions:
+
+* Be creative
+* One mans trash is another mans golfcart
+* Uniformity creates a professional look
+
+####Applying it to my business:
+
+//Real estate
+
+-----------------------------------------------------------
+###Marketing 101:
 Traditional
 
 Teams
 
-Sponsorship
+Magazines/TV 
 
-####Marketing - Digital Media: 
-Children paying to market for us
+Sponsorship(Camp Sponsoring Stuff)
+
+####Lessions:
+* Be where the action is
+* Be consistant
+* Don't be afraid to give a little away.
+* Your best customers are last years customers
+* Your best marketers are your last years customers
+
+####Applying it to my business:
+Where are people talking about my industury? Do I have a presence there?
+
+* Conferences, Codeschools, Co-working spaces, online forums
 
 
-###Scaling Up/Scaling Down:
+
+----------------------------------------------------------
+
+
+###Supply and Demand - 101:
+9 months of the year this location is a ghost town.
+####During Summer:
 Our limitations
+- Housing
+-- Limited by the ceptic system
 
-Members of a department always ask for more buildngs
+Directors of a department always ask for more buildngs
+
+Moving open gyms around. Filling dead space. Cross over with meals.
 
 Instead they should be trying to fill the off weeks
 
-####Scaling - The rest of the year:
+####The rest of the year:
 
 Heating
 
 Transition to next chapter-> Expirements to get us past these limitations
+
+####Lessions:
+* Weather the storm
+* Be agile(Staff up/staff down)
+* Setup a system w
+
+####Applying it to my business:
+
+* my core guys vs contractors.
+
+--------------------------------------------------------
+#200 Level Lessions
+--------------------------------------------------------
 
 ###Expiremental Mindset:
 Tinkerer
@@ -111,13 +159,51 @@ Tinkerer
 Modeling, Music, 
 
 
-###Hot Dog Businesses:
-####Sponsorship:
 
-####Selling Sugar Water:
+-------------------------------------------------------
+###Operations - 201:
+
+####No Lines!!!!
+- Managing parent percption
+
+####Everything has a place:
+
+
+
+###Franchising 201:
+####History:
+History, first franchise back in Ohio
+
+Other people want to do it their own way
+
+Issues with West's managment
+
+
+
+
+#####The Future:
+Current partnerships...
+The Resort Model
+- Partnership with Resort Holding Company
+
+
+No more gymnastics
+- Why gymnastics is not a business I would invest in
+
+
+------------------------------------------------------
+
+--------------------------------------------------------
+###Hot Dog Businesses - 301:
+-------------------------------------------------------
+####Selling Sugar Water - 302:
 Coffee Shop!!!
 
 No dip in sales of pizza on pizza night?
+
+
+####Sponsorship - 303:
+
 
 ####Build A Bow:
 
@@ -131,15 +217,18 @@ No dip in sales of pizza on pizza night?
 
 
 
+-------------------------------------------------------
 
-
-###Head Gym Dir On Managment:
+###Managment 401:
+//TODO: Break down into own sub lessions
 
 
 * Empowering People
 * The Ringmaster - Always a performer
 * "Lets" - Does not publicly single people out 
 * Firing People Gracefull
+-------------------------------------------------------
+
 
 
 ###Personal Notes:
@@ -159,24 +248,10 @@ Does this mean that camp and those who run it are only in it for the money? No! 
 
 ####Personal Development:
 - Master Coach
+
 - Clinics
---Hacking Fear
-
-
-
-
-
-
-###The Future:
-The Resort Model
-- Partnership with Resort Holding Company
-
-
-No more gymnastics
-- Why gymnastics is not a business I would invest in
-
-
-
+- Hacking Fear
+- This book
 
 
 

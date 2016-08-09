@@ -77,10 +77,11 @@ And many more lessons which I hope you can apply to your own life and business.
 
 
 ##Conclusion:
+//This is probablly the place to get on your pedistal and talk about education... possibly.
+//Really drive in the term Summer Camp MBA
 
 
-
-##Why I don't use Camp's real name:
+##Why I don't use Camp's real name://MIGHT MOVE THIS TO HISTORY...
 You probably realized that Camp is not just called "Camp" it has a real name and a hell of a brand behind it. So you're probably wondering "Why I am not using that name?". The answer is because I have not yet asked those who run Camp's permission yet. One of the many lessons I have learned is to _ask forgiveness, not permission_. My plan is to write this early draft of Summer Camp MBA and show it to some key people. If the powers that be want to allow me to use their name great. If not I am perfectly fine publishing this book simply calling this amazing place just "Camp".
 
 

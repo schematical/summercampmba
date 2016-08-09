@@ -1,15 +1,17 @@
 # summercampmba
 Lessions on business and life I have learned from working at one of the worlds most famous summer camps
 
-##Outline:
-* [Intro](./intro.md)
-* [The Idea](./idea.md)
-* [The Customer](./customers.md)
-* [The Staff](./staff.md)
-* [Scaling up and down](./scaling.md)
-* 
+* [Outline](./OUTLINE.md)
 
 
+##Chapter Format:
+_Story:_
+
+_Lessions:_
+* _Lesson 1: ..._
+* _Lesson 2: ..._
+
+_Applying it to my business/Personal Notes:_
 
 ##Marketing Notes:
 Seth Godin - http://www.sethgodin.com/sg/contact.asp
