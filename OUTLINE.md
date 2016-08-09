@@ -143,20 +143,29 @@ Transition to next chapter-> Expirements to get us past these limitations
 ####Lessions:
 * Weather the storm
 * Be agile(Staff up/staff down)
-* Setup a system w
+* Setup a system where
 
 ####Applying it to my business:
-
+* The seasonal nature of my Facebook work
+* Chess.com(dont use their name).
 * my core guys vs contractors.
+* keeping 3 mo of payroll in the bank
 
 --------------------------------------------------------
 #200 Level Lessions
 --------------------------------------------------------
 
-###Expiremental Mindset:
+###Expiremental Mindset - 201:
 Tinkerer
 
 Modeling, Music, 
+
+Action sports and the foam pit
+
+####Lessions:
+
+
+####Applying it to my business:
 
 
 
@@ -168,8 +177,14 @@ Modeling, Music,
 
 ####Everything has a place:
 
+####Check lists(Tom/Tony Gym Maintaince):
+
+####Basic Staff Training:
+- Orientation
+- Not to be confused with the advanced long term training found in the Managment section
 
 
+------------------------------------------------------
 ###Franchising 201:
 ####History:
 History, first franchise back in Ohio
