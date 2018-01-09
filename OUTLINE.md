@@ -25,16 +25,21 @@ A beautiful partnership between 2 men:
 * Steve Jobs - The businessesman
 * Steve Woziniac - The Technician
 
-####History - Getting Started:
+####History 101 - Getting Started:
 Started with people they knew
 
 Pure Luck: The Barn Floor
 
 Radius/Circles
 
-####History - Multiple Locations:
 
-####History - Where are we now?
+
+####History 201 - Multiple Locations:
+
+####History 301 - Other Sports:
+
+
+####History  301- Where are we now?
 
 ---------------------------------------
 ###What are we selling:
@@ -205,22 +210,24 @@ The Resort Model
 No more gymnastics
 - Why gymnastics is not a business I would invest in
 
-
-------------------------------------------------------
-
+--------------------------------------------------------
+#200 Level Lessions
 --------------------------------------------------------
 ###Hot Dog Businesses - 301:
--------------------------------------------------------
+- Example Cobb Salad:
+- Digital Media 
+
+
 ####Selling Sugar Water - 302:
 Coffee Shop!!!
 
 No dip in sales of pizza on pizza night?
 
 
-####Sponsorship - 303:
+####Build A Bow - 303 - Arts and Crafts on Steriodes
 
 
-####Build A Bow:
+####Sponsorship - 304:
 
 
 ####The Brand:
@@ -231,8 +238,9 @@ No dip in sales of pizza on pizza night?
 
 
 
-
--------------------------------------------------------
+--------------------------------------------------------
+#400 Level Lessions
+--------------------------------------------------------
 
 ###Managment 401:
 //TODO: Break down into own sub lessions
@@ -242,7 +250,14 @@ No dip in sales of pizza on pizza night?
 * The Ringmaster - Always a performer
 * "Lets" - Does not publicly single people out 
 * Firing People Gracefull
--------------------------------------------------------
+
+###Facilities Managment 402:
+---Ceptic System
+---An Army Runs on its stomach
+---Politics - Regulation
+
+###Hospitality 403 - What Industury are we really in:
+
 
 
 
