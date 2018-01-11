@@ -7,7 +7,15 @@ Let me explain to you how vast and complex the staffing situation is at camp. At
 From that 200 here is a short list of a few of the positions we need staffed to run:
 - Circlium specific instructors - Ex. Gymnastics Coach
 - Cabin Consolers - To make sure the campers brush your teeth and not stay up all night eating candy(a nearly impossible task).
-- 
+- Chefs - To cook and serve the meals
+- "Dish Dogs" - To clean up the messes after the meals
+- Rec Directors - To orgizie fun events like the dance off, talent contest, and bon fire
+- Arts and Crafts Instructors - So children can eat glue
+- Trainers - To treat the atheletes aches and pains and occasional broken bones
+- Nurses - To deal with puking children. Note: Since kids get sick 24/7 it requres multiple full time certified nurses so they can deal with sick children in shifts
+- Ropes Course and Rock Climbing Instructors - So no one falls to their death druing arec activity
+- Cantine/Coffee Shop Staff - To make sure the children have the ability to purchase everything they need to keep a constant sugar high
+- Directors - To manage all the aformentione staff staff
 
 ## Training/Turnover - Mary Kay
 Companies like Mary K are aplauded because of their ability to function with a (TODO: Research this + link to it) 25% a year turn over rate. 
