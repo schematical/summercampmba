@@ -123,6 +123,9 @@ They might even be people of note who would be willing to write an introduction 
 
 For example: Amy Poehler, founder of UCB, Parks and Recreation, SNL
 
+!!!! Michael Eisner - Summer Camp
+!!!! Seth Goden - Real Word MBA
+
 ## Book structure overview
 
 ## About the author:
