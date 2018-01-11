@@ -8,6 +8,12 @@ Who am I?
 
 Why am I writing this book?
 
+Who am I writing this book for?
+I have many atheletes.
+A few specifically have struck a nerve.
+Grace/Addie: College Scollarship pressure
+Yuki/Mari: Starting a business/Started a charity 
+
 My history
 
 Why do I not use the camps name?
@@ -17,7 +23,7 @@ Why do I not use the camps name?
 -----------------------------------------
 100 Level Lessions
 -----------------------------------------
-###[History - 101](./history-101.md):
+###[History - 101](./101/history-101.md):
 
 Ups and downs - Bankrupsy
 

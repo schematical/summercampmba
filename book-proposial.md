@@ -88,11 +88,7 @@ A beautiful partnership between 2 entripinures:
 
 
 ## Author: Matt Lea
-Matt Lea - Blogger/Podcaster at shiporgetoffthepot.com 
-Formerly writer/podcaster at HackingGymnastics.com a
-Author of ** Hacking Fear: Tips, tricks, and strategies for helping high performing atheletes through mental issues. ** http://a.co/18VPKNs
-
-
+Matt Lea
 
 ## Categories:
 Business / Business Biography
@@ -111,7 +107,9 @@ On a much deeper level, this section tells us why we as readers need to read thi
 It’s OK to take a page or so to explain.
 
 ## Unique angles
-How the book can carve its place out in a busy marketplace of similar books can be expounded here. Some of the takeaways that can only be experienced from this very book should be shared here, perhaps in bulleted format.
+ - A biographical telling of the history at the begining of each section
+ - Non-traditional learning model
+ - Sticks it to traditional learning institutions
 
 ## Reader benefits
 What will the reader gain from reading this book? This section answers that question with a number of benefits to the reader.
@@ -126,19 +124,12 @@ They might even be people of note who would be willing to write an introduction 
 For example: Amy Poehler, founder of UCB, Parks and Recreation, SNL
 
 ## Book structure overview
-Here is where you list the format, eventual word count (preferably within normal or appropriate range), page count, deadline by which a finished manuscript could be turned into the publisher, following a signed contract.
 
-About the author(s)
-Can you guess what you do here? Write a little something about yourself!
+## About the author:
+Matt Lea - Blogger/Podcaster at shiporgetoffthepot.com 
+Formerly writer/podcaster at HackingGymnastics.com a
+Author of ** Hacking Fear: Tips, tricks, and strategies for helping high performing atheletes through mental issues. ** http://a.co/18VPKNs
 
-It can be as simple as one paragraph or a couple of pages. Relevant writing experience, credentials, awards/accolades, previous publications, fun facts, links to author sites and social media pages (as well as the number of social media followers, if impressive), fun personal facts, and contact info can be listed here.
-
-Sales history of previous books
-For authors with previously published books, this is a list of titles, along with publisher name and publication date.
-
-Below that should be the total sales numbers on the book, from publication-to-date.
-
-If a book from this list was translated into other languages, had a film/TV adaptation, or was turned into an audiobook, that can be mentioned here, too.
 
 ## Chapter outlines
 This is a very sparse outline, breaking down each chapter, by name and number, into a one or two-sentence description, followed by bulleted chapter contents and/or very short description.
