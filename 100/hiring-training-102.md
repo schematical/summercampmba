@@ -26,19 +26,71 @@ If that is not bad enough only about 25%(50 people) of that staff will stay the 
 
 Still impressed by Mary K's ability to be a profitable business after 25% year staff turn over when camp is crushing it with **25% a week**?
 
+### Day 1 - at camp:
+Your first day at camp starts by checking into the main office. They give you the staff handbook, give you some basic paperwork, and start
+Each department also does its own day 1 training. Cheer has their own, Gymnastics another.
+
+### Reading Assignment - Checklist Manifesto:
+Process is essential for any business to scale. The trick is balencing process and creativity. Notice how they didn't go through and tell everyone day one how to coach a backward roll. There are hundres of ways to teach just about any skill. Each coach coaches slightly different, and each athelete learns slightly diferently so you need to get creative. The things that need processes are the mundain repetitive things or the essentials like safty. We have a bungi trampolien where campers wear a harnace that is strapped to bungis in addition to the trampolien. This has the added advantage of slowing the atheletes decent as they fall and reducing the impact on the ground. The bungis make it extreamly difficult for campers to get injured when used correctly. 
+
+If used incorrectly then this can be a fairly dangerious activity. Campers with all types of backgrounds (not just gymnastics) are allowed to use it so that increaces the risk of injury. Because of these risks a very specific process is taught to all new staff that might endup working bungi at the begining of thier first week, as well as any that may have been caught not setting up correctly the previous week. 
+- How to setup the bungi trampoline
+- How to check an atheletes harnece
+- How to instruct the athelete on the rules of the bungi
+- How to strap an athelete in to the bungis
+- How many bungis to use one atheletes of varying sizes
+- How to launch an athelete in to their first series of bounces
+- How to spot an athelete that may be about to land incorrectly
+- Where to stand while the athelete is bouncing so you can intervine if neccisary
+- How to stop an athelete from bouncing safly
+- How to unbungi an anthlete
+- How to take down and lock up the bungi trampolien at the end of a shift
+
+Earlier I mentioned [The E-Myth by Michel E Gerber](TODO: Link to amazon) which does a great job of covering process and how to enforce consistant quality but for more check list specific information you should read [The Checklist Manifesto by XXX](TODO: Link in amazon). This covers a wide range of applications of process in checklists not just in business but in other fields like how doctors use them in hospitals to reduce risk during vital opperations.
+
+
+
+### Hiarchy - Directors:
+Camp has a simple hiarchy for managment. There is a General Manager and below them directors of each of the various departments. Each one with a fairly well defined scope of focus. These directors are in charge of exicuting or deligating tasks such as the following:
+- Creating staff schedules
+- Ensuring staff is where they need to be during a given shift
+- Holding new staff training at the begining of each week.
+
+### Lession:
+Use managers effectivly
+
+### Master Staff:
+
+### Lession:
+Leveradge your existing expirenced staff to help guide and train your newer staff members.
+
 ### Compensation Issues: Pays in education
 
 
+### Applying it in your business:
+Create an intern program of some type that pays in education. In my consulting business I hire junior/intern level people all the time to do the more simple tasks such as pixel pushing(Making small design adjustments) or repetive tasks such as making the same adjustment to a high number of services we have built.
 
-Hiarchy - Directors/Master Staff
 
-Departments/Cross Functional - 
 
-Hook-em young: JC Program - They become staff
 
-Celeberties and their roll - Marketing - Not advertising which weeks
+### Departments/Cross Functional - 
+
+### Hook-em young: JC Program - They become staff:
+Camp created a program where they can give older campers a discount on their tuition for doing some basic cleaning work around camp. Some clean the gyms each night so the atheletes have a neat and clean enviroment to work out in. Others bus and clean dishes in the cafiteria. It is a mutually benficial way to help campers who want to spend more time at camp but dont have the big bucks to pay for it. 
+
+The campers in this program, 16 or 17 years old work two weeks and get one week as their camper week. They pay only for the 1 camper week but get to stay all 3 weeks. Their cleaning assignments do not interfear with any scheduled traning times and most if not all of the rec activities. Their main duities are early in the morning or just after lights out at 10 pm. This also gives them the ability to stay out slightly past curfu which most enjoy so much that they often opt to work during their camper week. 
+
+Beyond the obvious benifits of having an extreamly low cost workforce to do the tasks that I as a gym staff really would rather not do (sweeping and moping) it has the additional benifit that a high number of campers enrolled in this system become staff once they are too old to be campers. 
+
+#### Lesson 1:
+
+
+
+
+### Celeberties and their roll - Marketing - Not advertising which weeks:
+
 
 ----------------------------------------------------------
 
 Seasonal Advantage: 
-- Contrast with my group
+- Contrast with my business
