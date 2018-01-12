@@ -27,10 +27,31 @@ If that is not bad enough only about 25%(50 people) of that staff will stay the 
 Still impressed by Mary K's ability to be a profitable business after 25% year staff turn over when camp is crushing it with **25% a week**?
 
 ### Day 1 - at camp:
-Your first day at camp starts by checking into the main office. They give you the staff handbook, give you some basic paperwork, and start
-Each department also does its own day 1 training. Cheer has their own, Gymnastics another.
+Your first day at camp starts by checking into the main office. They give you the staff handbook, give you some basic paperwork, and start you on your way. You are given directions to your housing and told to meet up at the general tour / staff training at a certain time. From there you are set free to rome camp until the training. At the training everyone is given the a tour of camp. The tour covers the following basic information:
+- What parts of camp are available for use
+- When those parts are available for use
+- Who should be using each part of camp(boys never near girl dorms, skaters never in the gymnastics gym, etc)
+- Who is in charge of supervising each part of camp if questions a rise.
+- Where the essential safty areas are: Infermary, Trainers station, Emergecy Callboxes
+- Finally and possibly most improtant: Where to eat and when
 
-### Reading Assignment - Checklist Manifesto:
+From there the tour ends at a large open room where the general staff training can begin. Each new staff is given a paper checklist that covers all of the topics that is essential each staff member knows and follows. They put their name and the date at the top and begin to follow a premade power point that one of the directors walks the new staff through that corrosponds with the check list they have been handed. After the director has covered a specific topic the new staff initials(not checks) that they have been informed and understood. At the end if the director has skipped over something the staff can use the un-initialed section of the checklist to remind the director to cover that information. 
+
+Topics on the presentation include but are not limited to the following:
+- How to use a fire extingushier 
+- Who should deal with cleaning up bodily fluids(You would be amazed at how many different bodily fluids need clening up and how often)
+- Proper guidlines for communication with campers(Do not Snapchat your campers)
+- All the rules the campers need to follow(Curfuee is at 10PM)
+- Who to ask if you have questions?
+- What to do incase of natural disasters
+- Basic dress code (Wear a shirt, make sure it doesn have profanity on it, honestly that simple)
+
+
+Once all topics have been covered the new staff signs off that they have been informed and gives the paper to the director. This is important because from the business owners sake you want to have legal proof that in the event that something goes wrong you took every effort to ensure that every staff member has been trained in these basic rules and procedures.
+
+From there they inform you when and where your department specific traning is. Each department also does its own day 1 training. Cheer has their own, Gymnastics another.
+
+### Process Vs Creativity:
 Process is essential for any business to scale. The trick is balencing process and creativity. Notice how they didn't go through and tell everyone day one how to coach a backward roll. There are hundres of ways to teach just about any skill. Each coach coaches slightly different, and each athelete learns slightly diferently so you need to get creative. The things that need processes are the mundain repetitive things or the essentials like safty. We have a bungi trampolien where campers wear a harnace that is strapped to bungis in addition to the trampolien. This has the added advantage of slowing the atheletes decent as they fall and reducing the impact on the ground. The bungis make it extreamly difficult for campers to get injured when used correctly. 
 
 If used incorrectly then this can be a fairly dangerious activity. Campers with all types of backgrounds (not just gymnastics) are allowed to use it so that increaces the risk of injury. Because of these risks a very specific process is taught to all new staff that might endup working bungi at the begining of thier first week, as well as any that may have been caught not setting up correctly the previous week. 
@@ -46,9 +67,10 @@ If used incorrectly then this can be a fairly dangerious activity. Campers with 
 - How to unbungi an anthlete
 - How to take down and lock up the bungi trampolien at the end of a shift
 
+### Reading Assignment - Checklist Manifesto:
 Earlier I mentioned [The E-Myth by Michel E Gerber](TODO: Link to amazon) which does a great job of covering process and how to enforce consistant quality but for more check list specific information you should read [The Checklist Manifesto by XXX](TODO: Link in amazon). This covers a wide range of applications of process in checklists not just in business but in other fields like how doctors use them in hospitals to reduce risk during vital opperations.
 
-
+### Applying Training and Checklist in the real world://TODO: NOTE: I LIKE THIS `Applying XYZ in the "Real World"` contrasts "SummerCamp" theme really well
 
 ### Hiarchy - Directors:
 Camp has a simple hiarchy for managment. There is a General Manager and below them directors of each of the various departments. Each one with a fairly well defined scope of focus. These directors are in charge of exicuting or deligating tasks such as the following:
