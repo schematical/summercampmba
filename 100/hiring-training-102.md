@@ -72,6 +72,8 @@ Earlier I mentioned [The E-Myth by Michel E Gerber](TODO: Link to amazon) which 
 
 ### Applying Training and Checklist in the real world://TODO: NOTE: I LIKE THIS `Applying XYZ in the "Real World"` contrasts "SummerCamp" theme really well
 
+
+
 ### Hiarchy - Directors:
 Camp has a simple hiarchy for managment. There is a General Manager and below them directors of each of the various departments. Each one with a fairly well defined scope of focus. These directors are in charge of exicuting or deligating tasks such as the following:
 - Creating staff schedules
@@ -86,30 +88,68 @@ Use managers effectivly
 ### Lession:
 Leveradge your existing expirenced staff to help guide and train your newer staff members.
 
-### Compensation Issues: Pays in education
+### Applying this in the Real World:
+
+
+
+
+
+## Compensation Issues: Pays in education
+At Camp I teach 2-3 clinics a week. A clinic is a short 30-45 minute class on the topic of how to coach various gymnastics skills. There are at least 12 clinics a week that are free for anyone, athelete, visiting coach or young aspiring staff member available taught by a wide variety of high level coaches. Some club coaches, other collegic, and even a hand full of olympic coaches and olympians share their knowledge with anyone that comes to camp for free. As a young coach in my late teens this was one of the biggest draws for me to coaching. At my home gym I had a limited knowladge pool to draw upon to further my knowladge of the craft but at camp I had a limitless supply of brilliant coaching minds to pull from. One week the Utah State head coach was teachig me to spot vault the next a former olymic alternet was teaching me to spot high level bar releases. It was a utopia of hands on information and I loved it. I am not the only staff member that found this exposure to hands on training valuable. Each sommer dozzens and dozzens of young aspiring coaches hapily factor in the compensation they recive in knowladge on top of the financial compensation they recive and make the decision to work at camp over flipping burgers closer to home. 
+
+### Lesson:
+To add value to your staff and retain a better workforce create as many learning opportunities as you can. Passionate staff can be difficult to put a price tag on, find the most passionate and stoak the fires of their knowladge by offering classes/training and access to education and encouraging them to attend.
+
+### Appication in the Real World:
+In my business I created a series of lessions, workshops, and even some games to be played to help my staff learn how to better manage servers and become critical thinkers. My favorite game we play I call XXXX-Master. Similar to Dungon master I took some of the most pain full server outages we had expireneced and wrote them down in a set of scenerios that would be used to generate a ficticious network map that functioned similer to a dungon setup. I would then describe a situation like a small alarm or a full out outage and the staff playing the game would have to tell me how the would go about debugging. Each staff member could take one turn and state the action they would take. Once they stated their action I would make a statment back that gave them info(had their statment not been compeletely usless). They would say something like I would check the logs on Server XYZ then I would say something like It shows an abundance of 500 errors comeing from the Data Base. From there they could use that information to decide their next move until the situation was resolved. I found this to be a great way to test my staff's and potnetial staff's crifical thinking and ability to learn from hands on training.
+
+Side note: I found it to be a great sales tool to play with clients as it would show them how many potential ways there were for things to go wrong if they did not engage with the pros(us).
+
+
+
+## Departments/Cross Functional:
+Most if not all of the entry level coaching, consoling, and other positions were cross functional. All younger coaches also console(supervise children at night) and do rec activity(Make sure no one pokes their eye out while making marshmellos at the bon fire). Highlevel more expirenced coaches had more department specific extra circular activities such as me teaching clinics. 
+
+This means that you don't need to hire 100% dedicated bonfire watchers or consolers. Since the skill set at a base level to fulfill these positions is more generalized you can require them to fulfull more generalized positions. 
+
+On ocassion a younger coach wanted to be able to NOT console or supervise recreation activities, to which the answer was often: How high a level of a specialist are you? (TODO: THIS SEEMS COLD....)
+
+### Lession:
 
 
 ### Applying it in your business:
-Create an intern program of some type that pays in education. In my consulting business I hire junior/intern level people all the time to do the more simple tasks such as pixel pushing(Making small design adjustments) or repetive tasks such as making the same adjustment to a high number of services we have built.
 
 
 
 
-### Departments/Cross Functional - 
 
-### Hook-em young: JC Program - They become staff:
+
+
+
+## Hook-em young: JC Program - They become staff:
 Camp created a program where they can give older campers a discount on their tuition for doing some basic cleaning work around camp. Some clean the gyms each night so the atheletes have a neat and clean enviroment to work out in. Others bus and clean dishes in the cafiteria. It is a mutually benficial way to help campers who want to spend more time at camp but dont have the big bucks to pay for it. 
 
 The campers in this program, 16 or 17 years old work two weeks and get one week as their camper week. They pay only for the 1 camper week but get to stay all 3 weeks. Their cleaning assignments do not interfear with any scheduled traning times and most if not all of the rec activities. Their main duities are early in the morning or just after lights out at 10 pm. This also gives them the ability to stay out slightly past curfu which most enjoy so much that they often opt to work during their camper week. 
 
 Beyond the obvious benifits of having an extreamly low cost workforce to do the tasks that I as a gym staff really would rather not do (sweeping and moping) it has the additional benifit that a high number of campers enrolled in this system become staff once they are too old to be campers. 
 
-#### Lesson 1:
+### Lesson:
+
+
+### Applying it in your business:
+Create an intern program of some type that pays in education. In my consulting business I hire junior/intern level people all the time to do the more simple tasks such as pixel pushing(Making small design adjustments) or repetive tasks such as making the same adjustment to a high number of services we have built. 
 
 
 
 
-### Celeberties and their roll - Marketing - Not advertising which weeks:
+
+
+
+## Celeberties and their roll - Marketing - Not advertising which weeks:
+
+### Lesson:
+
+### Appying this in the Real World:
 
 
 ----------------------------------------------------------
