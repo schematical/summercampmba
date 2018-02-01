@@ -18,70 +18,48 @@ A Proposal by Matt Lea
 ## Contents
 
 
-##Outline:
+
+1. [Intro](./ch1-intro-v2.md):
+
+1. 100 History - Getting Started:
 
 
-###[Intro](./ch1-intro-v2.md):
-
-###[History - 101](./history-101.md):
-
-Ups and downs - Bankrupsy
-
-A beautiful partnership between 2 entripinures:
-* Steve Jobs - The businessesman
-* Steve Woziniac - The Technician
-
-####History - Getting Started:
-
-####History - Multiple Locations:
-
-####History - Where are we now?
-
-####History - Summery
 
 
-###Hiring/Training Staff 101:
+1. 100 Hiring/Training Staff:
 
-###Resource Aquisition 101:
+1. 100 Resource Aquisition:
 
-###Marketing 101:
+1. 100 Marketing:
 
-###Supply and Demand - 101:
-
---------------------------------------------------------
-#200 Level Lessions
---------------------------------------------------------
-
-###Expiremental Mindset - 201:
-
-###Operations - 201:
-
-###Franchising 201:
-
---------------------------------------------------------
-#300 Level Lessions
---------------------------------------------------------
-###Hot Dog Businesses - 301:
-
-####Selling Sugar Water - 302:
-
-####Sponsorship - 303:
-
-####Build A Bow(Arts and crafts on sterioids) - 304:
-
---------------------------------------------------------
-#400 Level Lessions
---------------------------------------------------------
-###Managment 401:
-
-###Facilities Managment 402:
----Ceptic System
----An Army Runs on its stomach
-
-###Hospitality 403 - What Industury are we really in:
+1. 100 Supply and Demand:
 
 
-###Conclusion:
+1. 200 - History  Multiple Locations:
+
+1. 200 - Expiremental Mindset:
+
+1. 200 - Operations:
+
+1. 200 - Franchising:
+
+
+1. 300 - Hot Dog Businesses:
+
+1. 300 - Selling Sugar Water:
+
+1. 300 - Sponsorship:
+
+1. 300 - Build A Bow(Arts and crafts on sterioids):
+
+1. 400 - Managment
+
+1. 400 - Facilities Managment
+
+1. 400 Hospitality????
+
+
+1. Conclusion - My secret agenda
 
 
 
@@ -96,15 +74,12 @@ Business / Business Biography
 ## Quotes:
 TODO:
 
-## Audience
-Concisely in a paragraph or two, interested demographic(s) of the book are listed here.
+## Audience:
+Young Entripinures emerging into the market. 
+Those destrat by the education inflation glass celing looking to strike out on their own.
 
-Providing a testament of the public’s powerful desire and current trends behind that can also be listed on this section’s page.
 
-Purpose and need
-On a much deeper level, this section tells us why we as readers need to read this book, and why now? In a simple way, the reader has a problem or a yearning, and this book fulfills that need with its purpose.
 
-It’s OK to take a page or so to explain.
 
 ## Unique angles
  - A biographical telling of the history at the begining of each section
@@ -112,17 +87,12 @@ It’s OK to take a page or so to explain.
  - Sticks it to traditional learning institutions
 
 ## Reader benefits
+__
 What will the reader gain from reading this book? This section answers that question with a number of benefits to the reader.
 
 Will the reader experience joy? Will they feel a part of something bigger than themselves? Tell us here in this section along a short list.
-
+__
 ## Potential endorsers
-This is a section devoted to a list of people of note who could provide advance praise/blurbs for the forthcoming book.
-
-They might even be people of note who would be willing to write an introduction or forward to the book. Not only names should be listed here, but titles and why these are important endorsements.
-
-For example: Amy Poehler, founder of UCB, Parks and Recreation, SNL
-
 !!!! Michael Eisner - Summer Camp
 !!!! Seth Goden - Real Word MBA
 
@@ -135,19 +105,26 @@ Author of ** Hacking Fear: Tips, tricks, and strategies for helping high perform
 
 
 ## Chapter outlines
-This is a very sparse outline, breaking down each chapter, by name and number, into a one or two-sentence description, followed by bulleted chapter contents and/or very short description.
+
+### Format:
+
+- Lecture
+- Lessions
+- Applying it in the real world
+- Reading Assignments
+
 
 ## Bonus content
-This can be fun bonus adds to the book, such as activities or interactive/online content having to do with the book.
+Working on it
 
 ## Marketing plan
-The sky’s the limit!
-
-This section lists what the author and publisher might do in considering the marketing and publicity behind the book’s publication.
+Speaking engagdments
+Podcast Circut
+Guest Writing
 
 ## Sample chapters
-Three-five fully-written and polished sample chapters from the forthcoming manuscript will need to be included with the book proposal.
+_Three-five fully-written and polished sample chapters from the forthcoming manuscript will need to be included with the book proposal.
 
 On the higher end, nonfiction book proposals can top out around 50-75 pages, not including sample chapters.
 
-It’s also worth noting that in nonfiction, it is not enough to have a good idea to write about, for it to be well-written and for the author to be an authority on the subject matter — author platform is what is key to nonfiction.  
+It’s also worth noting that in nonfiction, it is not enough to have a good idea to write about, for it to be well-written and for the author to be an authority on the subject matter — author platform is what is key to nonfiction._  
