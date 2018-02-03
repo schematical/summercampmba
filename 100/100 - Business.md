@@ -12,12 +12,26 @@ But think about it this way, pretty much no matter what you do:
 
 You are performing a function that gives some body a valid reason to charge a fee, tax, tiding, etc.
 
+//TODO: Historical - small economy of tradesmen(and women)
+
 ## The purpose of your business and your life are two different things:
 Understand the purpos of a business is to make its owners money, the purpose of your life should be something different entirly. So many people go through life 
 
 ## You do have a choice.
 There is a saying: Your either working hard making your dreams or someone elses dreams come true.
 Which would you prefer?
+
+## Supply and Demand - Time:
+//TODO Tie this in better this is a big concept
+In this book I will talk alot about supply and demand. 
+One thing that is in shorter and shorter supply everyday is time. Each day you spend working a job for someone else you have one less day to spend on this planet doing what you love doing. Each hour is one less hour you have to spend living and one more hour you give to making someone elses dream come true. How many more hours, days, months, years, decaids are you going to squander before you realize that your time is worth more than the pittance you are getting paid at your (suitably titled) "day job"? If you are not careful your life will pass you buy in the blink of an eye. When you are on your death bed how much of that day job money will you give back to looking back and smile because you spent your time your way on thinks you love doing. 
+
+Its excactly that mental exercise of imagining me many years from now(ideally) propped up in a hospital bed with a smile on my lips because I spent ever summer at camp making hundreds if not thousands of childrens dreams come true, knowing I spent my most important asset, my time, in the best possible way.
+
+How many more hours will you spend before you change?
+
+
+## Owning a business is not for everyone:
 
 Owning your own business is not for everyone. Some people like being told what to do, when to start your work day, when to end it, when to take a break, and how to do your job.
 
@@ -28,8 +42,13 @@ Not to say you shouldn't take feed back from your clients/customers. Custmer fee
 - What you are wearing when you work
 - When and how you get paid(see the **Cash Flow** section below for why this is improtant)
 
+If you are curing cancer and that is your lifes purpose then by all means stay the course. If you were put on this earth to teach surfing in Austrailia and you currently spend more time hanging ten on a board then you do in doors then cowabunga dude. But if your like most people trying cram your self into a 9-5 job wearing a uniform or much much worse kackies(Who thought those were a good idea?) then please, please, please, take this book and the other works I recomend seriously. You have one life to live. Don't deprive the world of your brilliances.
+
+
 To prove my point as I write this it is a Saturday afternoon and I am sitting on a beach in Goa India enjoying a glass of wine. In a service business it is a little different but you still dictate these increadibly important details. 
 
+
+### Owning a business is not for everyone:
 I know owning a business is for me. Why? Again because I am sitting on a beach in Goa India enjoying a glass of wine, --so I can comfortably say owning my own business is for me--.
 
 I will elaborate more on lifestyle business balence more in later chapters. For now just get really comfortable with the fact that 
@@ -48,9 +67,28 @@ I promise I wont get religious and preachy in this book. If you are still strugg
 
 
 ## Camp Economics:
-Lets examine the economics of camp. Where does money come from, where does it go to. Seems simple right? Lets take a look
-- Where the money comes from
-- Where the money goes to
+Lets examine the economics of camp. Where does money come from, where does it go to. Seems simple right? Lets take a look.
+
+### Where the money comes from:
+Parents that want their children to have a fun filled week of summer while working twards improving an athletic or artistic skillset. They cut a check(depending on the week) for around $1000 for a single week.
+
+That is the simple side of the equasion.
+
+
+### Where the money goes to:
+The reason those numbers are so simple is beacause those that manage camp do the effort to make the following numbers all work out and that is why they can justify taking their cut of the profit.
+
+- The mortage, taxes and maintaince for the land camp is built on
+- the wide variety of staff required to make each and every campers week there amazing(Including me)
+- The food the campers will eat
+- The electricty, water, and other utilities required for the activities the campers will participate in
+- 
+
+Coordinating all of the above takes an extrodinary amount of effort and that is why the owners of camp can justify taking aprofit.
+
+
+You as a business owner will have to take a wide variety of raw resources and services and combine them in a form of alchemy to create the product or service you will provide to your customer and the effort that goes into that alchemy is why you need to charge your profit margins. The beauty of running a business is that your time is no longer directly related to the units of product you sell as an employee: hours of your life.
+
 
 
 ## Maths
@@ -140,8 +178,7 @@ When is an insainly long net good? The answer is when you are not the one taking
 ### Reading Assignment 1:
 [Found Money: Simple Strategies for Uncovering the Hidden Profit and Cash Flow in Your Business - by Steve Wilkinghoff](https://www.amazon.com/Found-Money-Strategies-Uncovering-Business/dp/0470483350) 
 
-This book was introduced to me by one of my mentors, the owner of my home gym that I coach at when I am not at camp. It is a great introduction for any novice business owner
- into basic cashflow accounting and transitioning to the more advanced topics.
+This book was introduced to me by one of my mentors, the owner of my home gym that I coach at when I am not at camp. It is a great introduction for any novice business owner into basic cashflow accounting and transitioning to the more advanced topics.
 
 ### Reading Assignment 2:
 [Built to Sell: Creating a Business That Can Thrive Without You – by John Warrillow](https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823)
