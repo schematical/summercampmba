@@ -14,7 +14,7 @@ Sponsorship(Camp Sponsoring Stuff)
 * Your best customers are last years customers
 * Your best marketers are your last years customers
 
-####Applying it to my business:
+####Applying it in the "Real World":
 Where are people talking about my industury? Do I have a presence there?
 
 * Conferences, Codeschools, Co-working spaces, online forums
