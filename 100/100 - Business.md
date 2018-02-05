@@ -10,7 +10,7 @@ But think about it this way, pretty much no matter what you do:
 - Even work for the goverment(Arguablly)
 - Work for a church?
 
-You are performing a function that gives some body a valid reason to charge a fee, tax, tiding, etc.
+You are performing a function that gives somebody a valid reason to charge a fee, tax, tiding, etc.
 
 //TODO: Historical - small economy of tradesmen(and women)
 
@@ -93,11 +93,49 @@ You as a business owner will have to take a wide variety of raw resources and se
 
 ## Maths
 Math? Yuck I know right? Actually I love math, but I am a giant nerd. You may not, most people dont get excited about math... that is until you are tallying up your monthly profits and projecting growth that will allow you to take a year off and travel the globe or purchase that house that has the mindblowing view overlooking your favorite lake to take a dip in. Then math becomes fun. If you want to find yoru self in the aformentioned situation then I suggest you pay attention to the next section. 
+
 #### Gross Vs Net Revinue - 
-#### R.O.I.
-#### Overhead
-- Fixed
-- Per Unit
+_Grose Revinue_ is the amount of money camp makes in a given period of time before expenses are taken out(The expenses listed in the **Where the money goes to** section).  If camp takes in $1000 per camper per week and lets say there are 800 campers at camp that week their _Gross Revinue_ would be $1000 * 800 = $800,000. (Not including icecream, t-shirt sales, and all the other fun stuff campers can purchase).
+
+
+_Net Revinue_ is what is left after expenses. It is also your profit. Lets say camp employees 100 staff per week at an averedge salary of $500/week that means you have $50,000 in expenses. 
+
+For the moment I am going to pull some numbers out of thin air to represnet other potential expenses.
+
+- $50,000 food
+- $30,000 electricty + water + sewage
+- $50,000 morgage (Since money is only coming in 12 weeks of the year we will just say each week has to pay for 1 month of mortage payments)
+- $20,000 marketing costs (This again is a year long cost that I am averedging out like I did with the mortage)
+
+Totallying $150,000
+
+I am sure there are many more expenses but for now lets stick with this simplified model. So adding in our $50,000 employee expenses to our $150,000 in other misc expenses we get a total expense of $200,000 per week. To get our total Net Revinue or Pre Tax Profit we need to subtract the total expenses from the Gross Revinue: $800,000 - $200,000 = $600,000. Not bad
+
+When you first start your business your expnses will be quite simple but as time goes on and your business grows so will the complexities of these calculations. 
+Obviously you want the NET revinue to be as high as possible
+
+#### Expenses:
+Overhead just another term for our costs/expenses.
+In the previous example you may have noticed that there were two types of expenses. Expenses that fluctuate based on how many campers there are and expenses that are fixed.
+##### Per Unit:
+Our per unit cost is the cost it takes to provide a single unit of our product or service. In camps case the units we are selling are weeks at camp(We also sell Ice Cream and a lot of other things but to keep our example simple lets focus on camper weeks).
+
+What costs fluctuate the more camper weeks we sell?
+
+- Staff costs go up because we need more staff to teach and supervise the campers
+- Food costs go up because we need to feed the campers and staff
+- Utility consumption goes up as well
+
+These are just afew examples of Per Unit costs
+
+##### Fixed Overhead:
+Fixed Overhead is stuff like the morgage. Since we have already purchased the land and have an agreement to pay a fixed monthly cost to the bank that number does not changed based on the number of campers that enjoy a week at camp.
+
+Overhead can represnet other things that cannot directly be attriputed to a per unit cost.
+
+When you design your business model you will have to take both types of expenses into account.
+
+
 #### Cash Flow
 "Cash is king"
 Cashflow is a really important concept you need to understand. Cashlflow is the quantity of money coming in vs going out. Having a contract with a client or customer is like having an IOU. On paper you have money coming in but you can't really pay your bills with an IOU. Cash Flow is an accurate measurement of real money in vs real money out. As a young euntripinure I did not fully understand this concept and it came back to bite me in the ass me more than once.
@@ -135,7 +173,7 @@ Where things get tough: Assuming your clients do pay and dont screw around you c
 There is nothing better then money up front(unless you are a bank or loan shark and make your money on interest percentages). 
 Those who run camp are much smarter then I was and since day one Camp has had a NET 0 policy. This means that as soon as you show up you need to be 100% settled up for the week. They even do 1 better and give discounts for those that signup and pay a head of time. This means that camp can even further limit its exposure when committing to hire staff for the up coming summer by looking at the amount of customers that have already payed in full and using that number to determine how many staff they will need even if a significant amount of campers don't show up and pay their remaining balence.
 
-
+#### R.O.I:
 
 
 ### Applying it in the "Real World":
@@ -146,8 +184,7 @@ This is also an example of a really simple example of per unit overhead. Since w
 
 PS: Later I will get into why this is a bad idea and I never sell my own hours.
 
-#### ROI:
-//TODO: Figure this out
+
 
 
 #### Overhead:
@@ -173,7 +210,8 @@ For my unperdictable hours I typically do NET 14 at the most which corrosponds w
 ##### When is NET 365 good?
 When is an insainly long net good? The answer is when you are not the one taking the debt on(again unless you are a bank or a loan shark and that is your core business model). Let me tell you a little story about one of my clients that sold car parts online. They did alright and stuck to the same rules that I do. Get the money up front then ship the product. Until one day a payment providor deciceded they wanted to get into the lending game. My auto part selling client wired in the new paypal loan system and launched. The next day they did double the business they had ever done before. The payment providor provided the liberal payment terms to the end customer and my auto part paying cusotomer got payed imediatly regardless of weather or not the end customer payed down the line allowing my client to take in the cash and remain cashflow positive. The increase in customers was so significant that he had to hire my company to keep up with the scale. Of course I charged him a a retainer up front and NET 14 for any hourly work.
 
-
+#### ROI:
+//TODO: Figure this out
 
 ### Reading Assignment 1:
 [Found Money: Simple Strategies for Uncovering the Hidden Profit and Cash Flow in Your Business - by Steve Wilkinghoff](https://www.amazon.com/Found-Money-Strategies-Uncovering-Business/dp/0470483350) 
