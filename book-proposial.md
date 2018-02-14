@@ -71,60 +71,58 @@ Matt Lea
 ## Categories:
 Business / Business Biography
 
-## Quotes:
-TODO:
+## Overview:
+In my adult life I have spent the majority of my summers working at one of the worlds most popular summercamps. Over the years I studied how the founders started and grew this amazing business. 
+I learned some amazing lessions:
+- How to get the people doing your marketing to pay you to do your marketing for you.
+- How to get more then a 20x mark up selling a physical good(Not herion)
+- How to sustain your business when you have 25% staff turn over each week
+
+Using these lessions and many more I learned at camp I built my own small business which grossed over half a milliond dollars last year and I did it without ever taking a traditional business class nor having a college degree. I will share these the lessions I learned from the brillant people that run camp in Summer Camp MBA.
+
 
 ## Audience:
-Young Entripinures emerging into the market. 
-Those destrat by the education inflation glass celing looking to strike out on their own.
+I am writing the book with a few of my atheletes in mind(I am a gymnastics coach) that are looking to start their own business but have no traditional background on the topic and are struggling where to start as well as a few atheletes that are dialusioned with the options given to them by the traditional institutinal higher education system due to education inflation and are in need of another path that by passes the educational glass celing and doesn't require them to spend hundreds of thousands of dollars on theroetical eductation.
 
+//TODO ^ @editor ^ this is a massive run on sentance - please figure out a better way to phrase it.
 
+Though I am writing this book with these few atheletes in mind the world is filled with similiarly minded individuals that will find Summer Camp MBA a valuable resource to help them change their life.
 
-
-## Unique angles
- - A biographical telling of the history at the begining of each section
- - Non-traditional learning model
- - Sticks it to traditional learning institutions
-
-## Reader benefits
-__
-What will the reader gain from reading this book? This section answers that question with a number of benefits to the reader.
-
-Will the reader experience joy? Will they feel a part of something bigger than themselves? Tell us here in this section along a short list.
-__
-## Potential endorsers
-!!!! Michael Eisner - Summer Camp
-!!!! Seth Goden - Real Word MBA
 
 ## Book structure overview
 
 ## About the author:
+Built from the ground up a consulting business that grossed over 1/2 million dollars last year and built it without taking a single business class.
 Matt Lea - Blogger/Podcaster at shiporgetoffthepot.com 
 Formerly writer/podcaster at HackingGymnastics.com a
 Author of ** Hacking Fear: Tips, tricks, and strategies for helping high performing atheletes through mental issues. ** http://a.co/18VPKNs
+Spent the majority of summers of my adult life working at camp, observing the brilliant business moves, and being mentored by those that built and run this amazing summer camp empire.
 
-
-## Chapter outlines
+## Chapter outlines:
 
 ### Format:
+- Lecture - The anicdotal body of the chapter
+- Lessions - Specific lessions to be pulled from the chapter
+- Applying it in the real world - Applying the information out side of a camp setting. This could be my business or the coworking space I helped found or my atheletes businesses.
+- Reading Assignments - Books related to the info in the topic that will add value to the reader.
 
-- Lecture
-- Lessions
-- Applying it in the real world
-- Reading Assignments
 
 
-## Bonus content
-Working on it
+## Marketing plan:
 
-## Marketing plan
-Speaking engagdments
-Podcast Circut
-Guest Writing
+### Podcast Circut and Guest Writing:
 
+//TODO: @andy/VA - We need to populate a list of potential podcasts to go on - Focus on small business/lifestlye design
+- Duct Tape Marketing - https://www.ducttapemarketing.com/about/duct-tape-marketing-podcast/
+
+### Potential endorsers
+I plan to reach out to some super connectors that have done work in similar areas to see if they are interested in offering a quote or otherwise endoursing Summer Camp MBA.
+
+#### Seth Goden:
+Seth Goden created a program called Alt MBA ( altmba.com ) as an alternitive to traditional MBAs. Since my book has a reoccuring theme about non-traditional/non-institutional learning methods there is overlap that could benifit both Summer Camp MBA and Alt MBA.
+
+#### Michael Eisner:
+Wrote the book "Camp" about the life lessions he learned as a child at summer camp. Hopfully as a massivly successful business person he will find the similarities enough to endourse the book.
+ 
 ## Sample chapters
-_Three-five fully-written and polished sample chapters from the forthcoming manuscript will need to be included with the book proposal.
 
-On the higher end, nonfiction book proposals can top out around 50-75 pages, not including sample chapters.
-
-It’s also worth noting that in nonfiction, it is not enough to have a good idea to write about, for it to be well-written and for the author to be an authority on the subject matter — author platform is what is key to nonfiction._  
