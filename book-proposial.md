@@ -92,11 +92,11 @@ Though I am writing this book with these few atheletes in mind the world is fill
 ## Book structure overview
 
 ## About the author:
-Built from the ground up a consulting business that grossed over 1/2 million dollars last year and built it without taking a single business class.
 Matt Lea - Blogger/Podcaster at shiporgetoffthepot.com 
-Formerly writer/podcaster at HackingGymnastics.com a
-Author of ** Hacking Fear: Tips, tricks, and strategies for helping high performing atheletes through mental issues. ** http://a.co/18VPKNs
-Spent the majority of summers of my adult life working at camp, observing the brilliant business moves, and being mentored by those that built and run this amazing summer camp empire.
+- Formerly writer/podcaster at HackingGymnastics.com
+- Author of **Hacking Fear: Tips, tricks, and strategies for helping high performing atheletes through mental issues**  - http://a.co/18VPKNs
+- Built from the ground up a consulting business that grossed over 1/2 million dollars last year and built it without taking a single business class or having a college degree.
+- Spent the majority of summers of my adult life working at camp, observing the brilliant business moves, and being mentored by those that built and run this amazing summer camp empire.
 
 ## Chapter outlines:
 
