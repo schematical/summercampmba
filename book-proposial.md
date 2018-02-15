@@ -81,6 +81,8 @@ I learned some amazing lessons:
 Using these lesions and many more I learned at camp I built my own small business which grossed over half a million dollars last year and I did it without ever taking a traditional business class nor having a college degree. I will share these the lessons I learned from the brilliant people that run camp in Summer Camp MBA.
 
 
+//TODO - "Real world" vs "Summer Camp Parody"
+
 ## Audience:
 I am writing the book with a few of my athletes in mind(I am a gymnastics coach) that are looking to start their own business but have no traditional background on the topic and are struggling where to start as well as a few athletes that are disillusioned with the options given to them by the traditional institutional higher education system due to education inflation and are in need of another path that by passes the educational glass celing and doesn't require them to spend hundreds of thousands of dollars on theoretical education.
 
@@ -103,7 +105,7 @@ Matt Lea - Blogger/Podcaster at shiporgetoffthepot.com
 ### Format:
 - Lecture - The anecdotal body of the chapter
 - Lessons - Specific lessons to be pulled from the chapter
-- Applying it in the real world - Applying the information outside of a camp setting. This could be my business or the coworking space I helped found or my athletes businesses.
+- Applying it in the "Real World" - Applying the information outside of a camp setting. This could be my business or the coworking space I helped found or my athletes businesses.
 - Reading Assignments - Books related to the info in the topic that will add value to the reader.
 
 
@@ -124,6 +126,9 @@ Seth Godin created a program called Alt MBA ( altmba.com ) as an alternative to 
 #### Michael Eisner:
 Wrote the book "Camp" about the life lessons he learned as a child at summer camp. Hopefully as a massively successful business person he will find the similarities enough to endorse the book.
  
+#### The Founders of Camp:
+//TODO: Write this
+
 ## Sample chapters
 
 //TODO: Insert sample chapters
