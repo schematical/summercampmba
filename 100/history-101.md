@@ -105,15 +105,28 @@ When Sir Richard Branson was negotiating purchasing his first planes for Virgin 
 Take risks but whenever you can minimize the downside of those risks so you don't have to depend on luck,
 
 ## Lesson: Working on your business not in your business:
-A lot of times I see business owners get stuck working in their business and fail to work on their business trapping themselfs. Remember our 3 roles from the E-Myth above. First all you nee is a Technician and an Entripinure and often times those are the same person.
+A lot of times I see business owners get stuck working in their business and fail to work on their business trapping themselfs. Remember our 3 roles from the E-Myth above. First all you need is a Technician and an Entrepreneur and often times those are the same person. I see a lot of great gymnastic coaches start their own gyms. As time goes on and the classes grow the gym owner ends up spending more and more time in the gym coaching fulfilling their role as a Technician but letting their responsibilities as an Entrepreneur like marketing, hiring, and growing the business go to the wayside.  Eventually they reach a point where the business stalls out or burnout occurs.
+
+It is precisely because of this that I applaud The Entrepreneur for having zero technician skills when it comes to coaching gymnastics. After running camp for more than 40 years I doubt he knows how to coach a back handspring. Why is this to his and all of camps benefit?
+Because he never got distracted with the day to day Technician duties. He was free to focus on growing camp, improving every detail. He could step in and out of this beautiful machine tweaking the design to perfection. To this day I have observed him float into a gym spot something that could be improved and then set to work meticulously fixing it then disappear to inspect another part of camp all while us Technicians were busy doing the daily work. 
+
+You might be thinking that because The Entrepreneur  is free from Technician work that he was in some way not doing as much work as the Technicians. On the contrary he worked plenty hard, he just had the freedom to focus his efforts on what he thought was best to improve camp at that exact moment free from disruption by the daily Technician work. Because of this he was able to craft the incredible camp experience that thousands of children dream about 51 weeks a year.
 
 
 
 ### Applying it in the “Real World”:
-This issue has constently plagued my career as well. Stepping away from being the lead engineer slinging code to run my business has been 
+This issue has constantly plagued my career as well. Stepping away from being the lead engineer that pumps out computer code to run my business has been one of the biggest challenges I have ever faced. So much so that I am considering changing businesses and putting myself in an area where I cannot be the technician. 
 
 
-## Lesson: Iterate???
+## Conclusion:
+The key take aways in this chapter are as follows:
+
+Just start, there will never be a perfect time
+Use what you have and who you know
+Know that luck plays a factor but try and minimize its role in everything by minimizing your risks
+Be careful that you don't get buried in your own business by recognizing the roles you play
+
+In the upcoming chapters we will go into much more detail on marketing, hiring and recruiting, asset acquisition, management, and much more.
 
 
 
